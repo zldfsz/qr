@@ -78,11 +78,3 @@ QQ：https 协议，无法唤醒QQ
 7. 输入你的域名进行访问（必须按步骤来）
 
 需要在外网中才有效！需要在外网中才有效！需要在外网中才有效！重要的事情说三遍（里面局域网应该也有效，但那还有啥意义）
-
-
-## Author
-
-© [阿珏](https://github.com/178146582), Released under the [GPL](./LICENSE) License.<br>
-如果可以的话，请打赏作者一份
-![mahua](public/static/images/dashang.png)
-> [Blog](https://www.52ecy.cn) · GitHub [@阿珏](https://github.com/178146582)
